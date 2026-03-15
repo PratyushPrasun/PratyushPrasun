@@ -5,19 +5,13 @@
 
 ## 👋 About Me
 
-Hello! I'm Pratyush, a passionate developer who loves building real-world applications using AI + Web Technologies.
+Hi, I'm Pratyush — a developer passionate about building real-world applications using AI and modern web technologies.
 
-I focus on:<br/>
-⚡ Building AI-powered applications<br/>
-🎨 Creating modern UI/UX with React & Tailwind<br/>
-🔍 Solving real-world problems with practical solutions<br/>
-📈 Continuously improving through projects<br/>
+⚡ Developing AI-powered applications<br/>
+🎨 Creating modern UI with React & Tailwind<br/>
+🔍 Solving practical problems through projects
 
-Currently exploring:<br/>
-🧠 RAG (Retrieval-Augmented Generation) Systems<br/>
-🤖 AI Automation<br/>
-🔐 Cybersecurity fundamentals<br/>
-⚙️ Backend & API integrations<br/>
+Currently exploring RAG systems, AI resume analysis, backend APIs, and cybersecurity fundamentals.
 
 
 ## 🌐 Socials:
